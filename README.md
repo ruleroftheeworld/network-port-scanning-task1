@@ -1,7 +1,7 @@
 # 🔐 Cybersecurity Internship – Task 1: Network Port Scanning
 
 ## 📘 Overview
-This project demonstrates basic network reconnaissance using **Nmap**, **Wireshark**, and a custom **UDP server**. It includes scans on localhost and local networks, service detection, packet analysis, and manual UDP service simulation.
+This project demonstrates basic network reconnaissance using **Nmap** and **Wireshark**. It includes scans on localhost and local networks, service detection and packet analysis.
 
 ---
 
